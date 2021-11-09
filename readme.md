@@ -1,7 +1,7 @@
 ### Hey there, I'm Ian! 👋
 
 👨‍🏫 Consultant & instructor with a lifelong passion for technology </br>
-👨‍💼 Chief cook and bottle washer [@Noomedia](https://github.com/noomedia/) </br>
+👨‍🍳 Chief cook and bottle washer [@Noomedia](https://github.com/noomedia/) </br>
 👨‍🎓 BSc (Hons), Computer Science - [University of Brighton](https://www.brighton.ac.uk/courses/study/computer-science-bsc-hons.aspx)
 
 <!--
