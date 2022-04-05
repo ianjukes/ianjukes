@@ -1,9 +1,9 @@
 ### Hi there, I'm Ian! 👋
 
-<p>👨‍🏫&nbsp;&nbsp;Experienced consultant & instructor with a lifelong passion for technology</p>
-<p>👨‍🍳&nbsp;&nbsp;Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/ </p>
-<p>🧑‍💻&nbsp;&nbsp;Mac not PC</p>
-<p>📫&nbsp;&nbsp;[ian@noomedia.com](mailto:ian@noomedia.com)</p>
+👨‍🏫&nbsp;&nbsp;Experienced consultant & instructor with a lifelong passion for technology </br>
+👨‍🍳&nbsp;&nbsp;Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/ </br>
+🧑‍💻&nbsp;&nbsp;Mac not PC </br>
+📫&nbsp;&nbsp;[ian@noomedia.com](mailto:ian@noomedia.com) </br>
 
 <!--
 **ianjukes/ianjukes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
