@@ -1,4 +1,4 @@
-### Hey there, I'm Ian! 👋
+### Hi there, I'm Ian! 👋
 
 👨‍🏫 Consultant & instructor with a lifelong passion for technology </br>
 👨‍🍳 Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/) </br>
