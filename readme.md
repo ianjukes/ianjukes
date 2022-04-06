@@ -1,4 +1,4 @@
-# Hi There, I'm Ian <img  src="https://raw.githubusercontent.com/ianjukes/ianjukes/main/assets/animated_hi.gif" width="30px">
+### Hi There, I'm Ian <img  src="https://raw.githubusercontent.com/ianjukes/ianjukes/main/assets/animated_hi.gif" width="30px">
 
 **I'm an experienced consultant & instructor with a lifelong passion for technology**
 
