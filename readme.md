@@ -1,4 +1,4 @@
-<h1><img  src="https://raw.githubusercontent.com/ianjukes/ianjukes/main/assets/animated_hi.gif" width="30px">&nbsp;&nbsp;Hey there, I'm Ian!</h1>
+<h1><img  src="https://raw.githubusercontent.com/ianjukes/ianjukes/main/assets/animated_hi.gif" width="30px">&nbsp;Hey there, I'm Ian!</h1>
 
 **I'm an experienced consultant & instructor with a lifelong passion for technology**
 
