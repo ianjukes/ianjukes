@@ -2,6 +2,6 @@
 
 👨‍🍳&nbsp;&nbsp;Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/) </br>
 👨‍🏫&nbsp;&nbsp;Technical Instructor </br>
-☁️&nbsp;&nbsp;AWS Certified Solutions Architect</br>
 🧑‍💻&nbsp;&nbsp;Developer </br>
+☁️&nbsp;&nbsp;AWS Certified Solutions Architect</br>
 📫&nbsp;&nbsp;[ian@noomedia.com](mailto:ian@noomedia.com) </br>
