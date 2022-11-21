@@ -1,4 +1,4 @@
-<h1>👋&nbsp;Hey there, I'm Ian!</h1>
+<h1>👋&nbsp;Hi there, I'm Ian!</h1>
 
 👨‍🍳&nbsp;&nbsp;Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/) </br>
 👨‍🏫&nbsp;&nbsp;Technical Instructor </br>
