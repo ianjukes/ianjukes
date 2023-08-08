@@ -2,6 +2,6 @@
 
 👨‍🍳&nbsp;&nbsp;Chief cook and bottle-washer [@Noomedia](https://github.com/noomedia/) </br>
 👨‍🏫&nbsp;&nbsp;Technical Instructor </br>
-🧑‍💻&nbsp;&nbsp;Software Developer </br>
 ☁️&nbsp;&nbsp;Cloud Consultant</br>
+🧑‍💻&nbsp;&nbsp;Software Developer </br>
 📫&nbsp;&nbsp;[ian@noomedia.com](mailto:ian@noomedia.com) </br>
