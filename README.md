@@ -4,6 +4,6 @@
 👨‍🏫&nbsp;&nbsp;Technical Instructor </br>
 ☁️&nbsp;&nbsp;AWS Certified</br>
 🧑‍💻&nbsp;&nbsp;Software Developer </br>
-🤖&nbsp;&nbsp;Building AI solutions [@noobotic](https://github.com/noobotic/) </br>
+🧠&nbsp;&nbsp;Building AI solutions [@noobotic](https://github.com/noobotic/) </br>
 👨‍🎓&nbsp;&nbsp;Training resources &amp; demos [@trainingdemos](https://github.com/trainingdemos/)  </br>
 📫&nbsp;&nbsp;[ian@noobric.com](mailto:ian@noobric.com) </br>
