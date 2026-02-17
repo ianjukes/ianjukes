@@ -6,5 +6,5 @@
 ☁️&nbsp;&nbsp;AWS Certified</br>
 🧠&nbsp;&nbsp;AI tooling & services [@noobotic](https://github.com/noobotic/) </br>
 👨‍🎓&nbsp;&nbsp;Training resources &amp; demos [@trainingdemos](https://github.com/trainingdemos/)  </br>
-🤖&nbsp;&nbsp;Building a personal AI robot called [@noobibot](https://github.com/noobibot/) </br>
+🤖&nbsp;&nbsp;Building a personal AI assistant called [@noobibot](https://github.com/noobibot/) </br>
 📫&nbsp;&nbsp;[ian@noobric.com](mailto:ian@noobric.com) </br>
