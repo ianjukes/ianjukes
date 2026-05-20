@@ -5,5 +5,5 @@
 🧑‍💻&nbsp;&nbsp;Software Developer </br>
 ☁️&nbsp;&nbsp;AWS Certified</br>
 👨‍🎓&nbsp;&nbsp;Training resources [@trainingdemos](https://github.com/trainingdemos/)  </br>
-🤖&nbsp;&nbsp;Building a personal AI assistant called [@noobibot](https://github.com/noobibot/) </br>
+🤖&nbsp;&nbsp;Building a personal AI assistant called [@bixsby](https://github.com/bixsby/) </br>
 📫&nbsp;&nbsp;[ian@noobric.com](mailto:ian@noobric.com) </br>
